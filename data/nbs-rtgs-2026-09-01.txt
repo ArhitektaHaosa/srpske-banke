@@ -1,0 +1,3 @@
+Source: NBS, Pregled brojeva racuna i BIC, 1.9.2026.
+URL: https://www.nbs.rs/documents/platni-sistem/pregled_racuna_banka.pdf
+19 Serbian commercial banks. Row 20 Euroclear not seeded.
