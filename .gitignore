@@ -1,0 +1,13 @@
+.env
+vendor/
+node_modules/
+storage/cache/*
+!storage/cache/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+storage/snapshots/*
+!storage/snapshots/.gitkeep
+.phpunit.result.cache
+.idea/
+.vscode/
+*.swp
